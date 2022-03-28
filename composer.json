@@ -55,5 +55,8 @@
       "name": "symfony/polyfill",
       "url": "https://github.com/symfony/polyfill"
     }
+  },
+  "replace": {
+    "symfony/polyfill-php80": "*"
   }
 }
